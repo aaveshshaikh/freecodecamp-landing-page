@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#header{
+    display: flex;
+    text-decoration: none;
+    color: black;
+    margin-top: 18px;
+}
+.png{
+    width: 2%;
+    margin-left: 50px;
+
+}
+a{
+    text-align: end;
+    margin-left: 200px;
+    text-decoration: none;
+    color: black;
+}
+.pricing{
+
+}
+.features{
+    margin-left: 800px;
+}
+#head{
+    margin-left: 10px;
+    font-weight: lighter;
+}
+.png2{
+    width: 5%;
+    margin: 50px 100px ;
+}
+.head2{
+    
+    display: inline-block;
+}
+.para{
+    display: inline-block;
+}
